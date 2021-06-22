@@ -16,5 +16,3 @@ $ python attack.py
 
 Lalu enter 
 
-#Contoh
-https://github.com/KangProf/ProfDDOS/blob/f86db8fef91d115e2fc1f7305811befaed71fe80/IMG_20210622_205557.jpg
