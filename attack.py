@@ -1,17 +1,4 @@
 #!/usr/bin/env python3
-user = raw_input("Username: ")
-
-import getpass
-
-sandi = getpass.getpass()
-
-if sandi == '12345' and user == 'profesor acc':
-
-    print "Anda Telah Login"
-
-else:
-
-    print "Username atau Password Anda Salah"
 
 """
 $Id: $
