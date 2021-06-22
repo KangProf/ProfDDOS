@@ -14,7 +14,7 @@ $Id: $
                                                                      /$$  | $$
                                                                     |  $$$$$$/
                                                                      \______/
-                                                                    PROFESOR-DDOS V 2.0
+                                                                    PROFESOR-DDOS V 2.1
 
 This tool is a dos tool that is meant to put heavy load on HTTP servers
 in order to bring them to their knees by exhausting the resource pool.
@@ -24,7 +24,7 @@ and any malicious usage of this tool is prohibited.
 
 @author Profesor DDOS <http://wroot.org/>
 
-@date 2014-02-18
+@date 2021-22-06
 @version 2.1
 
 @TODO Test in python 3.x
