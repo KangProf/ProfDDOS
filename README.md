@@ -32,3 +32,8 @@ $ python attack.py
 
 Lalu enter 
 
+CONTOH
+
+$ python attack.py http://xnxx.com -m post 
+Lalu enter
+
