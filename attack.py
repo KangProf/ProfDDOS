@@ -568,7 +568,7 @@ def main():
     try:
 
         if len(sys.argv) < 2:
-            error('Please supply at least the URL')
+            error('JANGAN LUPA SUPPORT CHANNEL YOUTUBE SAYA -PROFESOR ACC-')
 
         url = sys.argv[1]
 
