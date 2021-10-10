@@ -29,7 +29,7 @@ $ git clone https://github.com/KangProf/ProfDDOS
 
 $ cd ProfDDOS
 
-$ python attack.py
+$ python ProfDDOS.py
 
 Lalu enter 
 
